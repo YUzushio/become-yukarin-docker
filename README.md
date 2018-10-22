@@ -1,6 +1,6 @@
 # become-yukarin-docker
 
-## NVIDIA-Docker image for become-yukarin-docker with gpu computong with Python 3.6.6
+## NVIDIA-Docker image for become-yukarin-docker with gpu computing with Python 3.6.6
 
 ####  Warning!! This Dockerfile use auto installation
 - This distoribution made at 2018.10.22
@@ -16,6 +16,8 @@
 - pip: 10.0.1
 - Anaconda 4.5.11
 - tensorflow: 1.11.0
+- tensorflow-gpu: 1.11.0
+- keras-gpu: 2.2.4
 - cupy-cuda90(cupy alternative): 4.5.0
 - chaienr: 4.5.0
 - jupyter notebook: 4.4.0
