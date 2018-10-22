@@ -73,7 +73,7 @@ Default: run /bin/bash in container
 
 ### Get become-yukarin source into container
 
-####  Warning!! Before cloning, you should visit repository and read README on GitHub  https://github.com/Hiroshiba/become-yukarin
+####  Before clone, you should visit repository and read README on GitHub  https://github.com/Hiroshiba/become-yukarin
 
 1. (On host machine) Go to files
 
@@ -97,7 +97,7 @@ Default: run /bin/bash in container
 
 6. Run jupyter notebook
 
-    #### Waning!!    Use port 80
+    #### Waning!! Jupyter use port 80
 
   `./jupyter.sh`
 
