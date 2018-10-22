@@ -1,4 +1,4 @@
-IMAGE=conda
+IMAGE=become-yukarin
 CONTAINER=be-yukarin
 MEMORY=28g
 HOSTDIR=${PWD}/files/
